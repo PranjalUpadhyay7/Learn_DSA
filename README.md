@@ -9,4 +9,7 @@ date - content
 3) binary search
 4) linear search
 5) senetial linear seach
-   
+
+10/06/2024
+1) selection sort
+
